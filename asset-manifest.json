@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pokemon_illustrated_book/static/css/main.2d9ef9ed.css",
+    "main.js": "/pokemon_illustrated_book/static/js/main.03f756ac.js",
+    "static/js/453.53bfeec0.chunk.js": "/pokemon_illustrated_book/static/js/453.53bfeec0.chunk.js",
+    "static/media/pokeball-transparent.svg": "/pokemon_illustrated_book/static/media/pokeball-transparent.0a48c5e2a6ec75841248.svg",
+    "static/media/pokeball.svg": "/pokemon_illustrated_book/static/media/pokeball.a1468bc302d1ff5af1b3.svg",
+    "index.html": "/pokemon_illustrated_book/index.html",
+    "main.2d9ef9ed.css.map": "/pokemon_illustrated_book/static/css/main.2d9ef9ed.css.map",
+    "main.03f756ac.js.map": "/pokemon_illustrated_book/static/js/main.03f756ac.js.map",
+    "453.53bfeec0.chunk.js.map": "/pokemon_illustrated_book/static/js/453.53bfeec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9ef9ed.css",
+    "static/js/main.03f756ac.js"
+  ]
+}
